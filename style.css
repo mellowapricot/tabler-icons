@@ -213,8 +213,7 @@ div[class*="icon-group"] {
     position: absolute;
     top: 30px;
     left: 30px;
-    border: 1px solid #000;
-    border-top: 0;
+    
     font-family: "Gabarito";
     font-weight: 600;
     color: #000;
